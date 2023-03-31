@@ -1,5 +1,7 @@
 # pandas-challenge
 
+Note to reader: please be advised that the start code for the pandas-challenge can be found at "pandas-challenge/PyCitySchools/PyCitySchools_starter.ipynb".
+
 In this assignment, you’ll create and manipulate Pandas DataFrames to analyze school and standardized test data.
 
 Background
