@@ -1,0 +1,23 @@
+PyCity Schools Analysis:
+---------------------------
+ Overall, schools with larger budgets, did not show better
+test results. In terms of average test scores in math and reading,
+schools that spent more per student ($645-$675) actually underperformed
+against schools that spent markedly less per student ($585 per student).
+(see spending_summary table)
+------------------------------------------------------------------------
+Large schools underperformed in terms of % passing math, reading,
+and overall when compared to smaller and medium-sized schools. In terms,
+of % overall passing small and medium-sized schools out-performed large-sized
+schools with 90-91% passing vs. 58%, respectively. (see size_summary table)
+------------------------------------------------------------------------
+Lastly, Charter schools out-performed District schools on all measures:
+average test stores in both subject areas and % passing rates.
+------------------------------------------------------------------------
+Further data collection and statistical analysis will be required to advance
+this research from descriptive to inferential. However, these intial findings
+support concentrating the school board's attention on larger-budget, larger-
+sized, and District schools to better understand why they are underperforming
+and how to facilitate improvements.
+------------------------------------------------------------------------
+-Report by Ethan Wright
